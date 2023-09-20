@@ -1,1 +1,2 @@
-// I will post notes what I have learn from the day1 video
+// Day 1
+// Now the day is started from here
