@@ -1,4 +1,4 @@
-# 180-daysHard
+# 180-daysHard-DSA-Challenge
 
 # Day 1 - Introduction to Number Systems and Computing
 
